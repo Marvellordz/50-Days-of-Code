@@ -5,3 +5,6 @@ A simple guessing game with python. You guess a random number from 1 to 10. If y
 
 # Day 2: Mean Median and Mode Calculator
 This is a program to calculate the mean, median and mode of a list.
+
+# Day 3: Age Calculator
+A simple age calculator that takes in three inputs from the users. The inputs are Year, Month (in numeric value) and Day. It then uses these values to calculate the age of the user.
