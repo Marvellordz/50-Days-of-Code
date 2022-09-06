@@ -14,3 +14,6 @@ A voice recorder that uses the in-built recorder on your device to record audio.
 To use this app, you'll need to run the following commands to install the necessary packages and libraries.
 1. ***pip install sounddevice***
 2. ***pip install SciPy***
+
+# Day 5: Calculate execution time 
+This is a programe to calculate execution time of a program. The default test program accepts a list of words and creates the accroynm for the words.
