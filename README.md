@@ -21,5 +21,5 @@ This is a programe to calculate execution time of a program. The default test pr
 # Day 6: Rock, Paper, Scissors
 A sinple rock paper scissors game using python
 
-Day 7: Same Index
+# Day 7: Same Index
 This is a program that sorts a nested list and return a new list with items in similar index position on the main (entry )list
