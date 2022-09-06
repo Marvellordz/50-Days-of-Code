@@ -8,3 +8,9 @@ This is a program to calculate the mean, median and mode of a list.
 
 # Day 3: Age Calculator
 A simple age calculator that takes in three inputs from the users. The inputs are Year, Month (in numeric value) and Day. It then uses these values to calculate the age of the user.
+
+# Day 4: Voice Recorder.
+A voice recorder that uses the in-built recorder on your device to record audio. You can specify the length of recording when invoking (calling) the method.
+To use this app, you'll need to run the following commands to install the necessary packages and libraries.
+1. ***pip install sounddevice***
+2. ***pip install SciPy***
