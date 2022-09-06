@@ -17,3 +17,6 @@ To use this app, you'll need to run the following commands to install the necess
 
 # Day 5: Calculate execution time 
 This is a programe to calculate execution time of a program. The default test program accepts a list of words and creates the accroynm for the words.
+
+# Rock, Paper, Scissors
+A sinple rock paper scissors game using python
