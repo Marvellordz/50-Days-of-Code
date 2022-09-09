@@ -35,5 +35,7 @@ This simple program reads from a pdf file from a specified page number and write
 # Day 10: Spell Checker
 
 This is a sinple python program to check for spellings. If the spelling is coreect, it returns correct, otherwise returns a list of suggestions of what the word might be. To use this, you'll need to install the spellchecker library using:
- ***pip install pyspellchecker***
+***pip install pyspellchecker***
 
+# Day 11: String reverser
+This is a program to reverse string. Type ina word and it will return the reversed word.
