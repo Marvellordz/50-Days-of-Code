@@ -39,3 +39,7 @@ This is a sinple python program to check for spellings. If the spelling is coree
 
 # Day 11: String reverser
 This is a program to reverse string. Type ina word and it will return the reversed word.
+
+#Day 12: Palindrome Checker
+A palindrome is a word that remains the same when spelt either forward or backward.
+this program checks for a word to see if it is a palindrome
