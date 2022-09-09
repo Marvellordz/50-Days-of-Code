@@ -31,3 +31,9 @@ You can print your favorite emoji with this program. Visit https://carpedm20.git
 # Day 9 : PDF reader and text writer
 
 This simple program reads from a pdf file from a specified page number and writes that text to a new text file and saves it
+
+# Day 10: Spell Checker
+
+This is a sinple python program to check for spellings. If the spelling is coreect, it returns correct, otherwise returns a list of suggestions of what the word might be. To use this, you'll need to install the spellchecker library using:
+ ***pip install pyspellchecker***
+
