@@ -52,3 +52,9 @@ This is a python program to check for how simailar two sentences (words, or phra
 # Day 14: Words censorer
 This program censors words (sentences) for profane words and censor them. To get this working, you need to install the following package:
 ***pip install better_profanity***
+
+
+# Day 15: Phone Details
+
+This program retrieves basic info of a phone number for you, such as Carrier agent, country, timezone etc. To use this you need to install the following packages.
+***pip install phonenumbers***
