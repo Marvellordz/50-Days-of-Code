@@ -47,3 +47,8 @@ this program checks for a word to see if it is a palindrome
 # Day 13 String Matcher
 
 This is a python program to check for how simailar two sentences (words, or phrases) are. It returns a value indicating the percentage of similarities.
+
+
+# Day 14: Words censorer
+This program censors words (sentences) for profane words and censor them. To get this working, you need to install the following package:
+***pip install better_profanity***
