@@ -43,3 +43,7 @@ This is a program to reverse string. Type ina word and it will return the revers
 #Day 12: Palindrome Checker
 A palindrome is a word that remains the same when spelt either forward or backward.
 this program checks for a word to see if it is a palindrome
+
+# Day 13 String Matcher
+
+This is a python program to check for how simailar two sentences (words, or phrases) are. It returns a value indicating the percentage of similarities.
