@@ -58,3 +58,9 @@ This program censors words (sentences) for profane words and censor them. To get
 
 This program retrieves basic info of a phone number for you, such as Carrier agent, country, timezone etc. To use this you need to install the following packages.
 ***pip install phonenumbers***
+
+
+# Day 16 Internet Speed Tester
+This program helps you to know the current speed of your internet connection. To use install the following dependency:
+
+***pip install speedtest-cli***
