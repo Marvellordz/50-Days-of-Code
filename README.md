@@ -74,3 +74,8 @@ This program uses the tktinker library to create a gui and allow users to shutdo
 
 # Day 19 Hangman:
 A hangman game for guessing words letter by letter
+
+
+# Day 20: Stopwatch
+
+A basic countdown stopwatch in python using the python gui library (TKTinker). 
