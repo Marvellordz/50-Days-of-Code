@@ -68,3 +68,6 @@ This program helps you to know the current speed of your internet connection. To
 
 # Day 17 Calendar
 This programs returns a calendar of a specific month, given year and month (in values) as inputs
+
+# Day 18 : PC shutdown
+This program uses the tktinker library to create a gui and allow users to shutdown, restart, logout, or hibernate their pc by clicking the respective buttons
